@@ -3,3 +3,4 @@
 ### Charlotte Bertanzetti, Elle Sullivan, Jennifer Alex
 
 - Charlotte's edit
+- Jennifer's edit
